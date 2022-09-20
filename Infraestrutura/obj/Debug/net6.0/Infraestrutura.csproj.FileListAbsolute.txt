@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\bin\Debug\net6.0\Infraestrutura.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\bin\Debug\net6.0\Infraestrutura.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\bin\Debug\net6.0\Infraestrutura.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\bin\Debug\net6.0\Dominio.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\bin\Debug\net6.0\Dominio.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.csproj.CopyComplete
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\refint\Infraestrutura.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\Infraestrutura.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\TestePratico\AplicativoWebProvaRemota\Infraestrutura\obj\Debug\net6.0\ref\Infraestrutura.dll

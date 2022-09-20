@@ -1,0 +1,35 @@
+﻿@page "/"
+@model AplicativoWebProvaRemota.Pages.Clientes.IndexModel
+@{
+}
+
+<br>
+<h2>Lista de Clientes</h2>
+<a class='btn btn-primary btn-sm' href='/Clientes/Criar'>Novo Cliente</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Cpf</th>
+            <th>Sexo</th>
+            <th>Tipo</th>
+            <th>Situacao</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var cliente in Model.Clientes)
+        {
+            <tr>
+                <td>@cliente.Nome</td>
+                <td>@cliente.CPF</td>
+                <td>@cliente.Sexo</td>
+                <td>@cliente.TipoId</td>
+                <td>@cliente.SituacaoId</td>
+                <td>
+                    <a class="btn btn-primary btn-sm" href="/Clientes/Editar?cpf=@cliente.CPF">Editar</a>
+                    <a class="btn btn-danger btn-sm" href="/Clientes/Deletar?cpf=@cliente.CPF">Deletar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

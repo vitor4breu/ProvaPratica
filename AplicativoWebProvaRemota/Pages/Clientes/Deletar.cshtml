@@ -1,0 +1,8 @@
+﻿@page
+@model AplicativoWebProvaRemota.Pages.Clientes.DeletarModel
+@{
+    String cpf = Request.Query["cpf"];
+    var ClienteDeletado = await Model._service.DeletarCliente(cpf);
+    Response.Redirect("/");
+
+}
